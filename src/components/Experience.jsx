@@ -1,5 +1,4 @@
 import React from "react";
-
 import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
@@ -7,6 +6,8 @@ import reactImage from "../assets/react.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
 import redux from "../assets/redux.png"
+import typescript from "../assets/typescript.png"
+
 const Experience = () => {
   const techs = [
     {
@@ -53,6 +54,13 @@ const Experience = () => {
       title: "Redux",
       style: "shadow-purple-500",
     },
+    {
+      id: 8,
+      src: typescript,
+      title: "Typescript",
+      style: "shadow-pink-500",
+    },
+    
   ];
 
   return (
