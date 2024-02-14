@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com/in/nneka-njoku-117023241/",
+      href: "https://www.linkedin.com/in/angelina-njoku/details/experience/",
       style: "rounded-tr-md",
     },
     {
